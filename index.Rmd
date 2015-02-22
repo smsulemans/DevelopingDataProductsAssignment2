@@ -55,8 +55,6 @@ We like to hear from you about activity detection shiny app
 
 feel free to mail us at activity_detection@shiny.com
 
-----
-
 ## Contact us
 
 Want to chat, mail or call us. 24Hours.activity_detection@shiny.com
